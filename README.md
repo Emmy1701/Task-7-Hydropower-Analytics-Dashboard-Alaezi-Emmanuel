@@ -1,7 +1,6 @@
 # ⚡ Hydropower & Data Centre Analytics Dashboard
 
-![Hydropower Analytics Dashboard](Hydro.jpg)
-
+![Hydropower Analytics Dashboard](Hydropower%20Analytics.png)
 ## 1. Executive Summary
 This Power BI dashboard provides a detailed operational analysis of data center sustainability, energy consumption, and environmental water usage metrics across globally distributed facilities (**3K Total Facilities**). Using **Power Query** for data transformation and **DAX** for custom calculation metrics (PUE, Total kWh, Total Water Gallons), the dashboard evaluates data center efficiency across operators, cooling technologies, and regional water risk tiers.
 
